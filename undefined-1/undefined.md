@@ -40,17 +40,17 @@ description: Penetration Testing
 
 ## # 주요 모의해킹 도구
 
-### 1. 네트워크 분석 도구
+### 4-1) 네트워크 분석 도구
 
 * Nmap: 네트워크 스캐닝
 * Wireshark: 패킷 분석
 
-### 2. 취약점 스캐너
+### 4-2) 취약점 스캐너
 
 * Nessus: 종합 취약점 스캐너
 * OWASP ZAP: 웹 애플리케이션 취약점 분석
 
-### 3. 웹 해킹 도구
+### 4-3) 웹 해킹 도구
 
 * Burp Suite: 웹 보안 테스트
 * SQLmap: SQL 인젝션 테스트
@@ -61,7 +61,7 @@ description: Penetration Testing
 
 Kali Linux는 모의해킹과 디지털 포렌식을 위해 특별히 설계된 리눅스 배포판입니다.
 
-### 1. Kali Linux의 장점
+### 5-1) Kali Linux의 장점
 
 * 600개 이상의 모의해킹 도구 기본 탑재
 * 실시간 업데이트로 최신 도구 유지
