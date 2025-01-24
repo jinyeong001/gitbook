@@ -3,8 +3,9 @@
 ## 🚧 침해사고분석대응
 
 * [침해 사고](README.md)
-* [침해 사고 분석 보고서](undefined/undefined-1/README.md)
-  * [보고서 1](undefined/undefined-1/1.md)
+* [침해 사고 대응](undefined/undefined-1.md)
+* [침해 사고 분석 보고서](undefined/undefined-2/README.md)
+  * [보고서 1](undefined/undefined-2/1.md)
 
 ## 🦠 악성코드분석 (Malware)
 
