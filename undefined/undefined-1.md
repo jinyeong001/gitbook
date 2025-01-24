@@ -6,7 +6,7 @@ description: Security Incident Response
 
 현대 정보화 사회에서 기업과 기관이 직면하는 주요 위협 중 하나는 **침해 사고**입니다. 침해 사고는 시스템에 대한 불법적 접근, 데이터 유출, 서비스 거부 공격(DoS) 등을 포함하며, 즉각적이고 체계적인 대응이 필수적입니다. 이번 글에서는 사고 발생 전 준비 단계부터 보고서 작성까지, 단계별 침해 사고 대응 절차를 소개하겠습니다.
 
-
+<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption></figcaption></figure>
 
 ## # 사고 대응 전 준비 과정
 
