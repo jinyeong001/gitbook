@@ -32,6 +32,8 @@ description: Security Incident Response
 
 탐지는 침해 사고 대응의 시작점입니다. 사고를 신속히 발견하고, 피해 확산을 막기 위해 체계적인 탐지가 필요합니다. 효과적인 사고 탐지는 피해를 최소화하는 핵심 요소입니다.&#x20;
 
+<figure><img src="../.gitbook/assets/2149943720-2.jpg" alt=""><figcaption></figcaption></figure>
+
 ### 2-1) 탐지 방법
 
 * **네트워크 트래픽 분석**: IDS 및 IPS를 사용하여 실시간 침입 탐지.
