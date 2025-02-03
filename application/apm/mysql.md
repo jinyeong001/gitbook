@@ -58,4 +58,4 @@ $ FLUSH PRIVILEGES;
 
 ## # 추가 데이터베이스 명령어
 
-자세한 데이터베이스 명령어는 [SQL문법](../../undefined-3/mysql/sql.md) 페이지를 참고하세요.
+자세한 데이터베이스 명령어는 [SQL문법](../../database/mysql/sql-language.md) 페이지를 참고하세요.

@@ -96,7 +96,7 @@ description: Security Incident Response
 
 ### 6-1) 보고서 구성
 
-침해 사고 분석 보고서의 자세한 구성은 [undefined-2](undefined-2/ "mention")를 참고해 주세요.
+침해 사고 분석 보고서의 자세한 구성은 [security-incident-analysis-report](security-incident-analysis-report/ "mention")를 참고해 주세요.
 
 * **사고 개요**: 사고 발생 시간, 범위, 원인 등 핵심 정보를 포함합니다.
 * **대응 결과**: 초기 조치, 조사 결과, 복구 내용 등을 상세히 기록합니다.
