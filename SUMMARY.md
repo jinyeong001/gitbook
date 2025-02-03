@@ -7,22 +7,22 @@
 * [침해 사고 분석 보고서](security-incident/security-incident-analysis-report/README.md)
   * [보고서 1](security-incident/security-incident-analysis-report/report-1.md)
 
-## 💥 모의해킹 <a href="#penetration-testing" id="penetration-testing"></a>
+## 💥 모의해킹 <a href="#hacking" id="hacking"></a>
 
-* [모의해킹](penetration-testing/penetration-testing.md)
-* [칼리 리눅스](penetration-testing/kali-linux/README.md)
-  * [칼리 리눅스 세팅하기](penetration-testing/kali-linux/setting.md)
-  * [모의해킹 도구](penetration-testing/kali-linux/tools/README.md)
-    * [nmap](penetration-testing/kali-linux/tools/nmap.md)
-    * [nickto](penetration-testing/kali-linux/tools/nickto.md)
-    * [dirb](penetration-testing/kali-linux/tools/dirb.md)
-    * [gobuster](penetration-testing/kali-linux/tools/gobuster.md)
-* [CTF](penetration-testing/ctf/README.md)
-  * [Earth Series](penetration-testing/ctf/earth-series/README.md)
-    * [Earth](penetration-testing/ctf/earth-series/earth.md)
-* [모의해킹 결과 보고서](penetration-testing/penetration-testing-result-report/README.md)
-  * [Earth Series](penetration-testing/penetration-testing-result-report/earth-series/README.md)
-    * [Earth](penetration-testing/penetration-testing-result-report/earth-series/earth.md)
+* [모의해킹](hacking/penetration-testing.md)
+* [칼리 리눅스](hacking/kali-linux/README.md)
+  * [칼리 리눅스 세팅하기](hacking/kali-linux/setting.md)
+  * [모의해킹 도구](hacking/kali-linux/tools/README.md)
+    * [nmap](hacking/kali-linux/tools/nmap.md)
+    * [nickto](hacking/kali-linux/tools/nickto.md)
+    * [dirb](hacking/kali-linux/tools/dirb.md)
+    * [gobuster](hacking/kali-linux/tools/gobuster.md)
+* [CTF](hacking/ctf/README.md)
+  * [Earth Series](hacking/ctf/earth-series/README.md)
+    * [Earth](hacking/ctf/earth-series/earth.md)
+* [모의해킹 결과 보고서](hacking/penetration-testing-result-report/README.md)
+  * [Earth Series](hacking/penetration-testing-result-report/earth-series/README.md)
+    * [Earth](hacking/penetration-testing-result-report/earth-series/earth.md)
 
 ## 🌐 네트워크 <a href="#network" id="network"></a>
 
