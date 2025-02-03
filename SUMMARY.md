@@ -1,11 +1,11 @@
 # Table of contents
 
-## 🚧 침해사고분석대응
+## 🚧 침해사고분석대응 <a href="#security-incident" id="security-incident"></a>
 
 * [침해 사고](README.md)
-* [침해 사고 대응](undefined/security-incident-response.md)
-* [침해 사고 분석 보고서](undefined/security-incident-analysis-report/README.md)
-  * [보고서 1](undefined/security-incident-analysis-report/report-1.md)
+* [침해 사고 대응](security-incident/security-incident-response.md)
+* [침해 사고 분석 보고서](security-incident/security-incident-analysis-report/README.md)
+  * [보고서 1](security-incident/security-incident-analysis-report/report-1.md)
 
 ## 💥 모의해킹 <a href="#penetration-testing" id="penetration-testing"></a>
 
