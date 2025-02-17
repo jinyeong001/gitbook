@@ -5,7 +5,7 @@
 * [침해 사고](README.md)
 * [침해 사고 대응](security-incident/security-incident-response.md)
 * [침해 사고 분석 보고서](security-incident/security-incident-analysis-report/README.md)
-  * [보고서 1](security-incident/security-incident-analysis-report/report-1.md)
+  * [취약점 분석 보고서](security-incident/security-incident-analysis-report/report-1.md)
 
 ## 💥 모의해킹 <a href="#hacking" id="hacking"></a>
 
