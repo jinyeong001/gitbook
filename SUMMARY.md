@@ -5,12 +5,12 @@
 * [침해 사고](README.md)
 * [침해 사고 대응](security-incident/security-incident-response.md)
 * [침해 사고 분석 보고서](security-incident/security-incident-analysis-report/README.md)
-  * [취약점 분석 보고서](security-incident/security-incident-analysis-report/report-1.md)
 
 ## 💥 모의해킹 <a href="#hacking" id="hacking"></a>
 
 * [모의해킹](hacking/penetration-testing.md)
 * [취약점 진단](hacking/undefined.md)
+  * [취약점 진단 보고서](security-incident/security-incident-analysis-report/report-1.md)
 * [칼리 리눅스](hacking/kali-linux/README.md)
   * [칼리 리눅스 세팅하기](hacking/kali-linux/setting.md)
   * [모의해킹 도구](hacking/kali-linux/tools/README.md)
