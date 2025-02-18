@@ -10,6 +10,7 @@
 ## 💥 모의해킹 <a href="#hacking" id="hacking"></a>
 
 * [모의해킹](hacking/penetration-testing.md)
+* [취약점 진단](hacking/undefined.md)
 * [칼리 리눅스](hacking/kali-linux/README.md)
   * [칼리 리눅스 세팅하기](hacking/kali-linux/setting.md)
   * [모의해킹 도구](hacking/kali-linux/tools/README.md)
